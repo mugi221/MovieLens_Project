@@ -1,5 +1,5 @@
 ---
-title: "MovieLens"
+title: "MovieLens_Recommendation_System "
 author: "Joyce Mugisha"
 date: "2023-08-16"
 output: html_document
@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+##This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, ##and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+##When you click the **Knit** button a document will be generated that includes both content as ##well as the output of any embedded R code chunks within the document. You can embed an R code ##chunk like this:
 # **Introduction**  
 In a realm dominated by virtual marketplaces, recommendation systems have assumed a pivotal role that used to be carried out by in-person sales staff, driving a company's sales and revenue. Leveraging the power of Machine Learning, the task of processing vast datasets to derive analytical insights and predictions has evolved into a streamlined and efficient process.
 
