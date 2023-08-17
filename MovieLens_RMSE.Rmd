@@ -15,8 +15,9 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 # **Introduction**  
-In a world where almost every marketplace is virtual, recommendation systems play a great role in other words that would be done by physical sales personnel to boost a company's sales and revenue.
-With the help of Machine Learning , the processing of huge data sets in order to make analytically decisions and predictions has proved to be a much easier process and less time consuming.
+In a realm dominated by virtual marketplaces, recommendation systems have assumed a pivotal role that used to be carried out by in-person sales staff, driving a company's sales and revenue. Leveraging the power of Machine Learning, the task of processing vast datasets to derive analytical insights and predictions has evolved into a streamlined and efficient process.
+
+In this context, I will illustrate the analytical processing of data using the [MovieLens](https://grouplens.org/datasets/movielens/10m/) through a Machine Learning recommendation system.
 
 ## MovieLens 10M dataset:
 ## https://grouplens.org/datasets/movielens/10m/
