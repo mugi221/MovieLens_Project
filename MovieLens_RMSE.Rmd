@@ -14,6 +14,8 @@ In a realm dominated by virtual marketplaces, recommendation systems have assume
 
 In this context, I will illustrate the analytical processing of data using the [MovieLens](https://grouplens.org/datasets/movielens/10m/) through a Machine Learning recommendation system.
 
+## Data Preparation for the datasets to be used that is *edx* and *final_holdout_test* (this is a validation dataset)
+
 ## MovieLens 10M dataset:
 ## https://grouplens.org/datasets/movielens/10m/
 ## http://files.grouplens.org/datasets/movielens/ml-10m.zip
